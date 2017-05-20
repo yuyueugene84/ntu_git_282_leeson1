@@ -1,10 +1,19 @@
-# Hello World!
+# NTU GIT CLASS EXERCISE 1
 
-### My favorite 3 things:
-- TV Show
-- Movie
-- Code
+Name
+----
+Eugene Chang
 
-```javascript
-alert("Hello World!!!!");
-```
+Date
+----
+2017/5/20
+
+Github Username
+---------------
+yuyueugene84
+
+My Favorite 3 dishes
+--------------------------------
+- Sushi
+- Ramen
+- Unadon
